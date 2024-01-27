@@ -1,0 +1,14 @@
+Cystic fibrosis is an autosomal recessive genetic disease that results from mutations in the CFTR gene, which encodes a protein that is involved in the transport of mucus, sweat, saliva, tears, and digestive enzymes through the membrane (“CFTR gene”, n.d.; “Cystic fibrosis,” 2022). It results in thick and sticky mucus that affects various organs in the human body, including the lungs, pancreas, liver, spleen, stomach, bones, and joints (“Cystic fibrosis,” 2022).
+
+The first step of our project will be obtaining 500 CFTR sequences belonging to healthy humans from GenBank (n.d.). They will be converted to protein sequences and aligned by MUSCLE to ensure that there is not any shift in position in any sequence (e.g. due to indels). A computational analysis will then be made using Python; profiles will be built and the conserved amino acids and their chemical properties will be saved.
+
+CFTR-France is a database that contains, as of December 2022, more than a thousand CFTR variants; each with their positional information and relationship to the disease (disease-causing, non-disease causing, and unclassified) (Claustres et al., 2017). We will use it to obtain harmful, benign, and unclassified variants. These variants will be compared to the healthy variants obtained in the previous step; our expectation is that changes in amino acid sequences that change the chemical property at that position will tend to be harmful, whereas others will not be so. We will test our hypothesis using an appropriate statistical test. Based on the result, we will try to predict whether variants of unknown significance are likely to be harmful or benign, with the help of a suitable algorithm we will develop and implement on Python.
+
+References:\
+*CFTR gene*. (n.d.). MedlinePlus - Health Information from the National Library of Medicine. Retrieved December 15, 2022, from https://medlineplus.gov/genetics/gene/cftr/
+
+Claustres, M., Thèze, C., Des Georges, M., Baux, D., Girodon, E., Bienvenu, T., Audrezet, M., Dugueperoux, I., Férec, C., Lalau, G., Pagin, A., Kitzis, A., Thoreau, V., Gaston, V., Bieth, E., Malinge, M., Reboul, M., Fergelot, P., Lemonnier, L., … Bareil, C. (2017). CFTR-France, a national relational patient database for sharing genetic and phenotypic data associated with rare CFTR variants. *Human Mutation, 38*(10), 1297-1315. https://doi.org/10.1002/humu.23276
+
+*Cystic fibrosis*. (2022, May 9). Centers for Disease Control and Prevention. Retrieved December 15, 2022, from https://www.cdc.gov/genomics/disease/cystic_fibrosis.htm
+
+*GenBank*. (n.d.). National Center for Biotechnology Information. Retrieved December 16, 2022, from https://www.ncbi.nlm.nih.gov/genbank/

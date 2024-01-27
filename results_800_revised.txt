@@ -1,0 +1,1368 @@
+The most common characters in the profile: 
+-D with 70.0%
+-E with 26.0%
+-V with 3.0%
+-T with 1.0%
+Chemical properties of the most common characters: 
+-Acidic with 70.0%
+-Acidic with 26.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 1.0%
+Substitution: D -> N
+Position in the aligned sequence: 3290
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.013867385915318664
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-E with 95.0%
+-N with 3.0%
+-I with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 95.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 1.0%
+-Aliphatic with 0.0%
+Substitution: E -> K
+Position in the aligned sequence: 3262
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.011795103044278221
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-M with 60.0%
+-L with 32.0%
+-I with 7.000000000000001%
+-V with 1.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 60.0%
+-Aliphatic with 32.0%
+-Aliphatic with 7.000000000000001%
+-Aliphatic with 1.0%
+Substitution: M -> T
+Position in the aligned sequence: 3229
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.009924623577944658
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-T with 99.0%
+-A with 0.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 99.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: T -> P
+Position in the aligned sequence: 3218
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014590618794954935
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-D with 100.0%
+-A with 0.0%
+-C with 0.0%
+-E with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 100.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: D -> H
+Position in the aligned sequence: 3199
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014604472062728746
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-I with 99.0%
+-Q with 1.0%
+-V with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 99.0%
+-Polar uncharged with 1.0%
+-Aliphatic with 1.0%
+-Aliphatic with 0.0%
+Substitution: I -> T
+Position in the aligned sequence: 3188
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014582258949531024
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-A with 96.0%
+-N with 3.0%
+-T with 1.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 96.0%
+-Polar uncharged with 3.0%
+-Polar uncharged with 1.0%
+-Polar uncharged with 0.0%
+Substitution: A -> V
+Position in the aligned sequence: 3186
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014545609452170538
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-R with 99.0%
+-E with 1.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 99.0%
+-Acidic with 1.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: R -> S
+Position in the aligned sequence: 3180
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.01459617201612673
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-Q with 99.0%
+-N with 1.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 99.0%
+-Polar uncharged with 1.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: Q -> H
+Position in the aligned sequence: 3174
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014598942658267333
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-Q with 99.0%
+-N with 1.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 99.0%
+-Polar uncharged with 1.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: Q -> H
+Position in the aligned sequence: 3174
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014598942658267333
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-F with 97.0%
+-T with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aromatic with 97.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: F -> V
+Position in the aligned sequence: 3159
+Chemical property of the reference character: Aromatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.011858943761581031
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-I with 96.0%
+-V with 4.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 96.0%
+-Aliphatic with 4.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: I -> T
+Position in the aligned sequence: 3150
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.01451404645627008
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-D with 99.0%
+-E with 1.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 99.0%
+-Acidic with 1.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: D -> Y
+Position in the aligned sequence: 3133
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014582258949531024
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-N with 100.0%
+-A with 0.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 100.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: N -> K
+Position in the aligned sequence: 3118
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Basic
+Change in entropy: 0.01460998570269112
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-A with 97.0%
+-R with 2.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 97.0%
+-Basic with 2.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: A -> V
+Position in the aligned sequence: 3090
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.01457386280958417
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-D with 100.0%
+-A with 0.0%
+-C with 0.0%
+-E with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 100.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: D -> N
+Position in the aligned sequence: 3075
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014642741453371855
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-T with 98.0%
+-N with 1.0%
+-S with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 98.0%
+-Polar uncharged with 1.0%
+-Polar uncharged with 1.0%
+-Aliphatic with 0.0%
+Substitution: T -> I
+Position in the aligned sequence: 3051
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014620966046550166
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 65.0%
+-E with 19.0%
+-D with 7.000000000000001%
+-N with 5.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 65.0%
+-Acidic with 19.0%
+-Acidic with 7.000000000000001%
+-Polar uncharged with 5.0%
+Substitution: S -> R
+Position in the aligned sequence: 3009
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Basic
+Change in entropy: 0.005959477578016958
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-N with 82.0%
+-D with 17.0%
+-K with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 82.0%
+-Acidic with 17.0%
+-Basic with 1.0%
+-Aliphatic with 0.0%
+Substitution: N -> N
+Position in the aligned sequence: 3003
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.0
+Substitution score (BLOSUM62): 6.0
+In a critical part of the protein? False
+Automated prediction: Non-pathogenic
+
+The most common characters in the profile: 
+-T with 45.0%
+-I with 27.0%
+-G with 11.0%
+-V with 8.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 45.0%
+-Aliphatic with 27.0%
+-Aliphatic with 11.0%
+-Aliphatic with 8.0%
+Substitution: T -> I
+Position in the aligned sequence: 2994
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.0010135713771433075
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-T with 45.0%
+-I with 27.0%
+-G with 11.0%
+-V with 8.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 45.0%
+-Aliphatic with 27.0%
+-Aliphatic with 11.0%
+-Aliphatic with 8.0%
+Substitution: T -> I
+Position in the aligned sequence: 2994
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.0010135713771433075
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 65.0%
+-G with 18.0%
+-T with 4.0%
+-L with 2.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 65.0%
+-Aliphatic with 18.0%
+-Polar uncharged with 4.0%
+-Aliphatic with 2.0%
+Substitution: S -> L
+Position in the aligned sequence: 2962
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.006683948769477865
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-D with 70.0%
+-T with 17.0%
+-A with 6.0%
+-E with 3.0%
+Chemical properties of the most common characters: 
+-Acidic with 70.0%
+-Polar uncharged with 17.0%
+-Aliphatic with 6.0%
+-Acidic with 3.0%
+Substitution: D -> H
+Position in the aligned sequence: 2906
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.013992576355121855
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-E with 50.0%
+-Y with 50.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 50.0%
+-Aromatic with 50.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: I -> V
+Position in the aligned sequence: 2885
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.01471968346390895
+Substitution score (BLOSUM62): 3.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-Y with 97.0%
+-F with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aromatic with 97.0%
+-Aromatic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: Y -> H
+Position in the aligned sequence: 2822
+Chemical property of the reference character: Aromatic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014601709336602653
+Substitution score (BLOSUM62): 2.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 97.0%
+-A with 3.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 97.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: R -> Q
+Position in the aligned sequence: 2800
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014601709336602653
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 97.0%
+-A with 3.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 97.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: R -> W
+Position in the aligned sequence: 2800
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014601709336602653
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-T with 71.0%
+-I with 23.0%
+-S with 3.0%
+-L with 2.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 71.0%
+-Aliphatic with 23.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 2.0%
+Substitution: T -> R
+Position in the aligned sequence: 2787
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Basic
+Change in entropy: 0.013988784377261254
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-Y with 97.0%
+-W with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aromatic with 97.0%
+-Aromatic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: Y -> C
+Position in the aligned sequence: 2740
+Chemical property of the reference character: Aromatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014634604381399186
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 41.0%
+-A with 28.000000000000004%
+-T with 10.0%
+-F with 9.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 41.0%
+-Aliphatic with 28.000000000000004%
+-Polar uncharged with 10.0%
+-Aromatic with 9.0%
+Substitution: S -> L
+Position in the aligned sequence: 2638
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.012935266317072092
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-V with 93.0%
+-A with 4.0%
+-F with 2.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 93.0%
+-Aliphatic with 4.0%
+-Aromatic with 2.0%
+-Polar uncharged with 0.0%
+Substitution: V -> M
+Position in the aligned sequence: 2646
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.01190408443449087
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-Y with 94.0%
+-F with 6.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aromatic with 94.0%
+-Aromatic with 6.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: Y -> C
+Position in the aligned sequence: 2645
+Chemical property of the reference character: Aromatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014593397398812158
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 41.0%
+-A with 28.000000000000004%
+-T with 10.0%
+-F with 9.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 41.0%
+-Aliphatic with 28.000000000000004%
+-Polar uncharged with 10.0%
+-Aromatic with 9.0%
+Substitution: S -> L
+Position in the aligned sequence: 2638
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.012935266317072092
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-E with 98.0%
+-G with 1.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 98.0%
+-Aliphatic with 1.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: E -> K
+Position in the aligned sequence: 2502
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014685570229175937
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-I with 97.0%
+-M with 2.0%
+-V with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 97.0%
+-Aliphatic with 2.0%
+-Aliphatic with 1.0%
+-Aliphatic with 0.0%
+Substitution: I -> M
+Position in the aligned sequence: 2479
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.007629345510622443
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-E with 85.0%
+-Q with 8.0%
+-D with 3.0%
+-H with 3.0%
+Chemical properties of the most common characters: 
+-Acidic with 85.0%
+-Polar uncharged with 8.0%
+-Acidic with 3.0%
+-Basic with 3.0%
+Substitution: E -> K
+Position in the aligned sequence: 2158
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014385470457682459
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-I with 93.0%
+-V with 7.000000000000001%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 93.0%
+-Aliphatic with 7.000000000000001%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: I -> F
+Position in the aligned sequence: 2183
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.01457386280958417
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-E with 85.0%
+-Q with 8.0%
+-D with 3.0%
+-H with 3.0%
+Chemical properties of the most common characters: 
+-Acidic with 85.0%
+-Polar uncharged with 8.0%
+-Acidic with 3.0%
+-Basic with 3.0%
+Substitution: E -> K
+Position in the aligned sequence: 2158
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014385470457682459
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-T with 97.0%
+-V with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 97.0%
+-Aliphatic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: T -> S
+Position in the aligned sequence: 2155
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.01463188439811347
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-M with 39.0%
+-V with 30.0%
+-L with 21.0%
+-A with 4.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 39.0%
+-Aliphatic with 30.0%
+-Aliphatic with 21.0%
+-Aliphatic with 4.0%
+Substitution: V -> M
+Position in the aligned sequence: 2393
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: -0.0005508115693828586
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-T with 52.0%
+-A with 45.0%
+-S with 3.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 52.0%
+-Aliphatic with 45.0%
+-Polar uncharged with 3.0%
+-Polar uncharged with 0.0%
+Substitution: A -> V
+Position in the aligned sequence: 1869
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.013151743903563329
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-R with 97.0%
+-A with 3.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 97.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: R -> Q
+Position in the aligned sequence: 1850
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.01194000089913061
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 92.0%
+-Q with 4.0%
+-M with 3.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 92.0%
+-Polar uncharged with 4.0%
+-Aliphatic with 3.0%
+-Aliphatic with 0.0%
+Substitution: R -> Q
+Position in the aligned sequence: 1797
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.00604667071820586
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-R with 92.0%
+-Q with 4.0%
+-M with 3.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 92.0%
+-Polar uncharged with 4.0%
+-Aliphatic with 3.0%
+-Aliphatic with 0.0%
+Substitution: R -> W
+Position in the aligned sequence: 1797
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.010832704910399116
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-K with 74.0%
+-T with 19.0%
+-S with 5.0%
+-R with 2.0%
+Chemical properties of the most common characters: 
+-Basic with 74.0%
+-Polar uncharged with 19.0%
+-Polar uncharged with 5.0%
+-Basic with 2.0%
+Substitution: K -> I
+Position in the aligned sequence: 1794
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014095840975869578
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-M with 60.0%
+-L with 40.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 60.0%
+-Aliphatic with 40.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: M -> V
+Position in the aligned sequence: 1651
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.013622095875916784
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-A with 71.0%
+-G with 27.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 71.0%
+-Aliphatic with 27.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: A -> T
+Position in the aligned sequence: 1615
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.009569208981929478
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 96.0%
+-L with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 96.0%
+-Aliphatic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: R -> H
+Position in the aligned sequence: 1612
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014487833447446974
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-L with 96.0%
+-T with 3.0%
+-M with 1.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 96.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 1.0%
+-Aliphatic with 0.0%
+Substitution: L -> F
+Position in the aligned sequence: 1580
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014496610654305186
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 96.0%
+-A with 3.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 96.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: R -> Q
+Position in the aligned sequence: 1565
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.010735399384202537
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-R with 67.0%
+-A with 21.0%
+-S with 5.0%
+-I with 3.0%
+Chemical properties of the most common characters: 
+-Basic with 67.0%
+-Aliphatic with 21.0%
+-Polar uncharged with 5.0%
+-Aliphatic with 3.0%
+Substitution: R -> Q
+Position in the aligned sequence: 1564
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.0081773014871942
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-E with 94.0%
+-Y with 3.0%
+-Q with 2.0%
+-A with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 94.0%
+-Aromatic with 3.0%
+-Polar uncharged with 2.0%
+-Aliphatic with 0.0%
+Substitution: E -> K
+Position in the aligned sequence: 1542
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014373063627772353
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-S with 90.0%
+-P with 4.0%
+-A with 3.0%
+-Y with 2.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 90.0%
+-Aliphatic with 4.0%
+-Aliphatic with 3.0%
+-Aromatic with 2.0%
+Substitution: S -> F
+Position in the aligned sequence: 1528
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014267551571492731
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-R with 67.0%
+-K with 28.999999999999996%
+-H with 3.0%
+-N with 1.0%
+Chemical properties of the most common characters: 
+-Basic with 67.0%
+-Basic with 28.999999999999996%
+-Basic with 3.0%
+-Polar uncharged with 1.0%
+Substitution: R -> L
+Position in the aligned sequence: 1517
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.013707363190178512
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-R with 67.0%
+-K with 28.999999999999996%
+-H with 3.0%
+-N with 1.0%
+Chemical properties of the most common characters: 
+-Basic with 67.0%
+-Basic with 28.999999999999996%
+-Basic with 3.0%
+-Polar uncharged with 1.0%
+Substitution: R -> H
+Position in the aligned sequence: 1517
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.006029160586649596
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-R with 67.0%
+-K with 28.999999999999996%
+-H with 3.0%
+-N with 1.0%
+Chemical properties of the most common characters: 
+-Basic with 67.0%
+-Basic with 28.999999999999996%
+-Basic with 3.0%
+-Polar uncharged with 1.0%
+Substitution: R -> C
+Position in the aligned sequence: 1517
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.013707363190178512
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-V with 36.0%
+-F with 31.0%
+-I with 12.0%
+-L with 8.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 36.0%
+-Aromatic with 31.0%
+-Aliphatic with 12.0%
+-Aliphatic with 8.0%
+Substitution: V -> I
+Position in the aligned sequence: 926
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.0020283492908674816
+Substitution score (BLOSUM62): 3.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-N with 73.0%
+-S with 20.0%
+-E with 3.0%
+-A with 1.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 73.0%
+-Polar uncharged with 20.0%
+-Acidic with 3.0%
+-Aliphatic with 1.0%
+Substitution: N -> Y
+Position in the aligned sequence: 1787
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014074172310984068
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-A with 71.0%
+-V with 19.0%
+-I with 7.000000000000001%
+-P with 3.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 71.0%
+-Aliphatic with 19.0%
+-Aliphatic with 7.000000000000001%
+-Aliphatic with 3.0%
+Substitution: A -> T
+Position in the aligned sequence: 1780
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.013996360912642558
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-E with 57.99999999999999%
+-D with 37.0%
+-Y with 3.0%
+-N with 2.0%
+Chemical properties of the most common characters: 
+-Acidic with 57.99999999999999%
+-Acidic with 37.0%
+-Aromatic with 3.0%
+-Polar uncharged with 2.0%
+Substitution: E -> G
+Position in the aligned sequence: 1717
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.013599017935121083
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-G with 73.0%
+-S with 24.0%
+-A with 2.0%
+-T with 1.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 73.0%
+-Polar uncharged with 24.0%
+-Aliphatic with 2.0%
+-Polar uncharged with 1.0%
+Substitution: G -> R
+Position in the aligned sequence: 1741
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Basic
+Change in entropy: 0.014044897834992298
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-Y with 74.0%
+-S with 25.0%
+-A with 1.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aromatic with 74.0%
+-Polar uncharged with 25.0%
+-Aliphatic with 1.0%
+-Polar uncharged with 0.0%
+Substitution: Y -> C
+Position in the aligned sequence: 1801
+Chemical property of the reference character: Aromatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.01141846378527589
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-L with 94.0%
+-S with 3.0%
+-V with 2.0%
+-I with 1.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 94.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 2.0%
+-Aliphatic with 1.0%
+Substitution: L -> F
+Position in the aligned sequence: 1849
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014571055976148273
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-L with 66.0%
+-S with 18.0%
+-A with 7.000000000000001%
+-F with 3.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 66.0%
+-Polar uncharged with 18.0%
+-Aliphatic with 7.000000000000001%
+-Aromatic with 3.0%
+Substitution: L -> V
+Position in the aligned sequence: 1823
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.007057534951854905
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-R with 97.0%
+-A with 3.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Basic with 97.0%
+-Aliphatic with 3.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: R -> W
+Position in the aligned sequence: 1850
+Chemical property of the reference character: Basic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.014620966046550166
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-G with 97.0%
+-E with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 97.0%
+-Acidic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: T -> S
+Position in the aligned sequence: 2014
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014626432927570931
+Substitution score (BLOSUM62): 1.0
+In a critical part of the protein? False
+Automated prediction: Likely non-pathogenic
+
+The most common characters in the profile: 
+-D with 60.0%
+-N with 38.0%
+-G with 1.0%
+-K with 1.0%
+Chemical properties of the most common characters: 
+-Acidic with 60.0%
+-Polar uncharged with 38.0%
+-Aliphatic with 1.0%
+-Basic with 1.0%
+Substitution: D -> Y
+Position in the aligned sequence: 2006
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.013694147364049059
+Substitution score (BLOSUM62): -3.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-P with 95.0%
+-A with 4.0%
+-C with 0.0%
+-D with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 95.0%
+-Aliphatic with 4.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: P -> T
+Position in the aligned sequence: 2040
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.011920744189183097
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 97.0%
+-K with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 97.0%
+-Basic with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: S -> C
+Position in the aligned sequence: 2048
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Polar uncharged
+Change in entropy: 0.014637320544807153
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-S with 97.0%
+-T with 3.0%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Polar uncharged with 97.0%
+-Polar uncharged with 3.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: S -> L
+Position in the aligned sequence: 2052
+Chemical property of the reference character: Polar uncharged
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014637320544807153
+Substitution score (BLOSUM62): -2.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
+The most common characters in the profile: 
+-I with 93.0%
+-V with 7.000000000000001%
+-A with 0.0%
+-C with 0.0%
+Chemical properties of the most common characters: 
+-Aliphatic with 93.0%
+-Aliphatic with 7.000000000000001%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+Substitution: I -> F
+Position in the aligned sequence: 2183
+Chemical property of the reference character: Aliphatic
+Chemical property of the substitution character: Aromatic
+Change in entropy: 0.01457386280958417
+Substitution score (BLOSUM62): 0.0
+In a critical part of the protein? False
+Automated prediction: Possibly (<likely) non-pathogenic
+
+The most common characters in the profile: 
+-D with 100.0%
+-A with 0.0%
+-C with 0.0%
+-E with 0.0%
+Chemical properties of the most common characters: 
+-Acidic with 100.0%
+-Aliphatic with 0.0%
+-Polar uncharged with 0.0%
+-Acidic with 0.0%
+Substitution: D -> G
+Position in the aligned sequence: 2196
+Chemical property of the reference character: Acidic
+Chemical property of the substitution character: Aliphatic
+Change in entropy: 0.014714474281618095
+Substitution score (BLOSUM62): -1.0
+In a critical part of the protein? False
+Automated prediction: Likely pathogenic
+
